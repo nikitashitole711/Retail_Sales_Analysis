@@ -1,4 +1,4 @@
-# Retail_Sales_Analysis
+# Retail_Sale_Analysis
 📊 Retail Sales Dashboard using Excel
 
 I recently worked on a Retail Sales Analysis project where I used Microsoft Excel to analyze sales performance and uncover meaningful business insights.
