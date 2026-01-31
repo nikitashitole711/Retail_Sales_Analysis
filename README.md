@@ -11,4 +11,5 @@ I recently worked on a Retail Sales Analysis project where I used Microsoft Exce
 🔹Applied Excel formulas for accurate calculations and insights.
 
 💡 Tools Used:
+
  Excel | Pivot Tables | Charts | Data Cleaning | Formulas
